@@ -2,7 +2,7 @@
 
 KHIROKOM is a web-based educational platform designed for presenting religious courses and learning content through a structured and user-friendly interface.
 
-The project combines a modern Angular frontend with a Node.js backend and MongoDB database to simulate a real-world learning platform where content is dynamically managed and displayed.
+The project combines a modern Angular frontend with a Node.js backend and MongoDB database to simulate a real-world learning platform where content is dynamically managed through an administrative dashboard.
 
 ---
 
@@ -16,13 +16,16 @@ The project combines a modern Angular frontend with a Node.js backend and MongoD
 
 The goal of this project was to build a content-driven educational platform that organizes courses and learning materials through a clear and scalable UI while connecting the interface to real backend data.
 
+The platform includes both a public website for users and a dashboard for managing content.
+
 Core focus:
 
 - Structured course presentation
 - Clear content hierarchy
 - User-friendly navigation
 - Dynamic data rendering
-- Organized UI suitable for educational content
+- Dashboard-based content management
+- Organized UI suitable for educational platforms
 
 This project demonstrates both frontend UI implementation and full-stack integration.
 
@@ -34,14 +37,19 @@ This project demonstrates both frontend UI implementation and full-stack integra
 - Component-based Angular architecture
 - Structured course and content layouts
 - Clean typography and spacing for readability
-- Organized page sections and navigation
-- Responsive-ready layout structure
+- Organized navigation and page structure
+- Data-driven UI rendering
+
+### Dashboard
+- Administrative dashboard for managing courses and content
+- Structured forms for adding and editing data
+- Organized dashboard layout for content management
+- Separation between public UI and admin interface
 
 ### Backend
-- RESTful API built with Node.js
+- RESTful API built with Node.js and Express
 - Course and content management
-- Database integration using MongoDB
-- Data-driven UI rendering
+- MongoDB database integration
 
 ---
 
