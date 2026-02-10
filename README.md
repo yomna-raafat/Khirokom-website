@@ -1,8 +1,81 @@
-# Khirokom-website
-"Khirokom" is a website for religious courses.
+# 📘 Case Study: KHIROKOM – Educational Platform
 
-Technologies used: Node.js, Angular framework, MongoDB.
+KHIROKOM is a web-based educational platform designed for presenting religious courses and learning content through a structured and user-friendly interface.
 
+The project combines a modern Angular frontend with a Node.js backend and MongoDB database to simulate a real-world learning platform where content is dynamically managed and displayed.
+
+---
+
+## 🔗 Live Demo
+
+[Khairokom Link](https://khairokom.vercel.app/home?fbclid=IwY2xjawP3ghBleHRuA2FlbQIxMABicmlkETFITWtPMTNWVEFhOVFISmt6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHma-6612Q8Ty4cfO75xm1QlRU3uUyuGzouTOCKHjlkh3-nVjeJrdn5g4nhUu_aem_sEpNYpgCYGM8pPLmSOMLoQ)
+
+---
+
+## 📌 Project Overview
+
+The goal of this project was to build a content-driven educational platform that organizes courses and learning materials through a clear and scalable UI while connecting the interface to real backend data.
+
+Core focus:
+
+- Structured course presentation
+- Clear content hierarchy
+- User-friendly navigation
+- Dynamic data rendering
+- Organized UI suitable for educational content
+
+This project demonstrates both frontend UI implementation and full-stack integration.
+
+---
+
+## ✨ Key Features
+
+### UI & Frontend
+- Component-based Angular architecture
+- Structured course and content layouts
+- Clean typography and spacing for readability
+- Organized page sections and navigation
+- Responsive-ready layout structure
+
+### Backend
+- RESTful API built with Node.js
+- Course and content management
+- Database integration using MongoDB
+- Data-driven UI rendering
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+---
+
+## 🧩 Development Approach
+
+The project focuses on building a scalable structure where:
+
+- UI components are separated from data logic
+- Backend APIs provide structured content
+- The frontend consumes dynamic data
+- The interface remains clean and readable despite content density
+
+The implementation prioritizes maintainability and clear separation between frontend and backend responsibilities.
+
+---
+
+## 📷 Screenshots
 
 ![Screenshot (1024)](https://github.com/YOmnAA98/Khirokom-website/assets/97298678/92191f31-9094-477d-b003-13cca7839d2a)
 ![Screenshot (1025)](https://github.com/YOmnAA98/Khirokom-website/assets/97298678/bd33f0e4-4938-4842-a147-6adde0913b69)
